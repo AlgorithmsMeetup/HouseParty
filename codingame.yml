@@ -1,0 +1,10 @@
+title : House Party
+plan:
+  - title: Bring different hors d'oeuvres to adjacent house parties, and minimize your costs
+    statement: markdowns/part1.md
+projects:
+  mocha:
+   root: root
+   runner:
+    name: codingame/node-npm-runner
+    version: latest
