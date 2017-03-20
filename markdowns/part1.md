@@ -4,4 +4,4 @@ The goal today is to write a function that returns the min cost of catering all 
 
 Write an `getMin` function that takes a n * 3 matrix as a parameter and returns the minimum catering cost.
 
-@[Write the getMin function]({"stubs": ["getMin.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testIsMin.js"})
+@[Write the getMin function]({"stubs": ["getMin.js"], "command": "/project/target/node_modules/mocha/bin/mocha test/testGetMin.js"})
